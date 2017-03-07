@@ -1,4 +1,4 @@
-package arxera.com;
+package arx_era.browser;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package arxera.com;
+package arx_era.browser;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
